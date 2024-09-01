@@ -1,6 +1,6 @@
 Data taken from: https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance/data
 
-Authors: Arun Jangir, willian oliveira
+Authors: Arun Jangir, Willian Oliveira
 
 url: https://www.kaggle.com/dsv/6678394
 
